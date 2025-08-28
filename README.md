@@ -128,3 +128,5 @@ Snyk appreciates and extends gratitude to the Snyk community.
 ## Security
 
 For any security issues or concerns, see the [SECURITY.md](https://github.com/snyk/snyk/blob/master/SECURITY.md) file in the GitHub repository.
+
+<!-- Updated on 2025-08-28 12:40:32 by automated script -->
